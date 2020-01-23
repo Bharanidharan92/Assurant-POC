@@ -15,9 +15,9 @@ config.baseUrl = 'http://assurantasms.vendev01.venturesolutions.com/t-mobile?use
  */
 
 config.specs = [
-  './test/features/fileMyClaim.feature',
-  './test/features/continueMyClaim.feature',
-  './test/features/trackMyClaim.feature'
+  './test/features/fileMyClaim.feature'
+//  './test/features/continueMyClaim.feature',
+//  './test/features/trackMyClaim.feature'
 ];
 
 /**
