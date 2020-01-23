@@ -1,0 +1,55 @@
+{
+  "UserGroup": {
+    "chrome": {
+      "mobile": "2018891768",
+      "email": "test@gmail.com",
+      "name": "QA Automation"
+    }
+  },
+
+  "TrackClaimUser": {
+    "chrome": {
+      "mobile": "6105004347",
+      "zipCode": "19087"
+    }
+  },
+
+  "ContinueClaimUser": {
+    "chrome": {
+      "mobile": "6105004311",
+      "zipCode": "19087"
+    }
+  },
+
+  "ContactInfo": { 
+    "chrome": {
+    "firstName": "Test",
+    "lastName": "Automation",
+    "emailAddress": "test@nltechdev.com",
+    "confEmailAddress": "test@nltechdev.com",
+    "nameListedAcc": "Bharanidharan Murugesan",
+    "billingAddress": "26, Anna Street",
+    "zipCode": "85001",
+    "contactNumber": "1231231231",
+    "authorizedContact": "Yes",
+    "customerAuthentication": "1234"
+    }
+  },
+
+  "PaymentInfo": { 
+    "chrome": {   
+    "cardType": "Visa", 
+    "cardNumber": "4012888888881881",  
+    "expireMonth": "05",
+    "expireYear": "2022",
+    "cvvCode": "234"
+    }
+  },
+
+  "DeliveryOptions": {  
+    "chrome": {  
+    "attention": "Test"
+    }
+  }
+
+}

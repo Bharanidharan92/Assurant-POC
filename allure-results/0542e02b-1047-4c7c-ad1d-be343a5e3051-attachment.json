@@ -1,0 +1,26 @@
+{
+    "desiredCapabilities": {
+        "javascriptEnabled": true,
+        "locationContextEnabled": true,
+        "handlesAlerts": true,
+        "rotatable": true,
+        "browserName": "chrome",
+        "chromeOptions": {
+            "prefs": {
+                "download.prompt_for_download": "false",
+                "download.default_directory": "D:\\Assurant Demo\\chromeDownloads",
+                "download.directory_upgrade": "true",
+                "download.extensions_to_open": ""
+            }
+        },
+        "loggingPrefs": {
+            "browser": "ALL",
+            "driver": "ALL"
+        },
+        "requestOrigins": {
+            "url": "http://webdriver.io",
+            "version": "4.12.0",
+            "name": "webdriverio"
+        }
+    }
+}

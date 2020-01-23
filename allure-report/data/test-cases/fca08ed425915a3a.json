@@ -1,0 +1,66 @@
+{
+  "uid" : "fca08ed425915a3a",
+  "name" : "Fill the delivery options details",
+  "fullName" : "File Claims File my claim T-Mobile.Fill the delivery options details",
+  "historyId" : "e8f24b8d32c7f3e096a852ba750cdfb2",
+  "time" : {
+    "start" : 1578661987316,
+    "stop" : 1578661987316,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Step \"Fill the delivery options details\" is not defined. You can ignore this error by setting\n                                              cucumberOpts.ignoreUndefinedDefinitions as true.",
+  "statusTrace" : "D:\\Assurant Demo\\test\\features\\fileMyClaim.feature:8",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "File Claims"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "story",
+    "value" : "File my claim T-Mobile"
+  }, {
+    "name" : "suite",
+    "value" : "File Claims File my claim T-Mobile"
+  }, {
+    "name" : "testClass",
+    "value" : "File Claims File my claim T-Mobile"
+  }, {
+    "name" : "testMethod",
+    "value" : "Fill the delivery options details"
+  }, {
+    "name" : "package",
+    "value" : "File Claims File my claim T-Mobile"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "fca08ed425915a3a.json",
+  "parameterValues" : [ "chrome" ]
+}

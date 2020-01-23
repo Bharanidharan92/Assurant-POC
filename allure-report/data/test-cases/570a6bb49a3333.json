@@ -1,0 +1,100 @@
+{
+  "uid" : "570a6bb49a3333",
+  "name" : "Fill payment info section details for Continue Claim",
+  "fullName" : "Continue My File Claim Continue my claim T-Mobile.Fill payment info section details for Continue Claim",
+  "historyId" : "526c650a0e774f78094fb2841f85cece",
+  "time" : {
+    "start" : 1578663932898,
+    "stop" : 1578663932901,
+    "duration" : 3
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Continue My File Claim"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "story",
+    "value" : "Continue my claim T-Mobile"
+  }, {
+    "name" : "suite",
+    "value" : "Continue My File Claim Continue my claim T-Mobile"
+  }, {
+    "name" : "testClass",
+    "value" : "Continue My File Claim Continue my claim T-Mobile"
+  }, {
+    "name" : "testMethod",
+    "value" : "Fill payment info section details for Continue Claim"
+  }, {
+    "name" : "package",
+    "value" : "Continue My File Claim Continue my claim T-Mobile"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "73f9db91fd89108c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1578663724245,
+        "stop" : 1578663724247,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "fc17332e898b93d3",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1578662827268,
+        "stop" : 1578662827271,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "275daa7e0c053eb2",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1578656847282,
+        "stop" : 1578656847282,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ddccba70ba26dcb3",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1578644192675,
+        "stop" : 1578644192679,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "82b07a90f10b7104",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1578644058076,
+        "stop" : 1578644058078,
+        "duration" : 2
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "570a6bb49a3333.json",
+  "parameterValues" : [ "chrome" ]
+}

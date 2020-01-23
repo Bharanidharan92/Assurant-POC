@@ -1,0 +1,58 @@
+{
+  "uid" : "1ef1bba31bdf12f8",
+  "name" : "Fill the delivery options details for Continue Claim",
+  "fullName" : "Continue My File Claim Continue my claim T-Mobile.Fill the delivery options details for Continue Claim",
+  "historyId" : "c473021f910f5ae7cf3ea0c411aca5ac",
+  "time" : {
+    "start" : 1578662827280,
+    "stop" : 1578662827280,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Continue My File Claim"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "story",
+    "value" : "Continue my claim T-Mobile"
+  }, {
+    "name" : "suite",
+    "value" : "Continue My File Claim Continue my claim T-Mobile"
+  }, {
+    "name" : "testClass",
+    "value" : "Continue My File Claim Continue my claim T-Mobile"
+  }, {
+    "name" : "testMethod",
+    "value" : "Fill the delivery options details for Continue Claim"
+  }, {
+    "name" : "package",
+    "value" : "Continue My File Claim Continue my claim T-Mobile"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1ef1bba31bdf12f8.json",
+  "parameterValues" : [ "chrome" ]
+}

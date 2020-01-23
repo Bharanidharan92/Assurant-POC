@@ -1,0 +1,291 @@
+{
+  "a47a279808f70beda2a4329b6011eb68" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "69bf83198a8cc4b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578662192194,
+        "stop" : 1578662228252,
+        "duration" : 36058
+      }
+    } ]
+  },
+  "e10d77d0edd797b79bf1aef4f4f867a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bbf32f48d11d973",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1578661987315,
+        "stop" : 1578661987315,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c9c3880b060badd43b4bdb96b0e8c02d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "77a8b53d1863245a",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1578661987313,
+        "stop" : 1578661987314,
+        "duration" : 1
+      }
+    } ]
+  },
+  "1b4c9212d02d113e2d431d60bcc02a4d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3acbe889225c5cf6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578663811524,
+        "stop" : 1578663863709,
+        "duration" : 52185
+      }
+    } ]
+  },
+  "e8f24b8d32c7f3e096a852ba750cdfb2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fca08ed425915a3a",
+      "status" : "broken",
+      "statusDetails" : "Step \"Fill the delivery options details\" is not defined. You can ignore this error by setting\n                                              cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1578661987316,
+        "stop" : 1578661987316,
+        "duration" : 0
+      }
+    } ]
+  },
+  "90b504d888a274f204b3cad143482aca" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fce6d8a0a543e108",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578662228260,
+        "stop" : 1578662235397,
+        "duration" : 7137
+      }
+    } ]
+  },
+  "c473021f910f5ae7cf3ea0c411aca5ac" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "43d5a5bc2744ca99",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1578663932903,
+        "stop" : 1578663932904,
+        "duration" : 1
+      }
+    } ]
+  },
+  "ca9c07af1ef752efb2297cba96cddcdb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5b2731c842378f25",
+      "status" : "broken",
+      "statusDetails" : "element not visible",
+      "time" : {
+        "start" : 1578661959876,
+        "stop" : 1578661987313,
+        "duration" : 27437
+      }
+    } ]
+  },
+  "155fe4f43366a5249cb38dee2f47f7e9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "489954e0de37daeb",
+      "status" : "broken",
+      "statusDetails" : "element (\"#firstName\") still not visible after 30000ms",
+      "time" : {
+        "start" : 1578663863710,
+        "stop" : 1578663932896,
+        "duration" : 69186
+      }
+    } ]
+  },
+  "d389f002b491d9c43651ea3512b3f52b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "45a0ae768df24c09",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1578663932906,
+        "stop" : 1578663932908,
+        "duration" : 2
+      }
+    } ]
+  },
+  "901259308508d20a1de202914e1353fe" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6c939fccb2afe44d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578662235404,
+        "stop" : 1578662242766,
+        "duration" : 7362
+      }
+    } ]
+  },
+  "7d7312418df3b231ed6f7e25261f2c2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "18d8d1ffa6aa68d8",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1578661987316,
+        "stop" : 1578661987316,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2ea467395e6df2f98f8d4d575c60230d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "42e0f2bfe9fcab3f",
+      "status" : "broken",
+      "statusDetails" : "Step \"View and Submit the Claim Summary\" is not defined. You can ignore this error by setting\n                                              cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1578661987316,
+        "stop" : 1578661987316,
+        "duration" : 0
+      }
+    } ]
+  },
+  "526c650a0e774f78094fb2841f85cece" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "570a6bb49a3333",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1578663932898,
+        "stop" : 1578663932901,
+        "duration" : 3
+      }
+    } ]
+  },
+  "5f9fdf550aa6a1867d06ce2ecee4f611" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f2e452d6d7173e66",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578662242769,
+        "stop" : 1578662250214,
+        "duration" : 7445
+      }
+    } ]
+  }
+}

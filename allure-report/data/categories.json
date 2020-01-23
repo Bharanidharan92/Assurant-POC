@@ -1,0 +1,73 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "element not visible",
+      "children" : [ {
+        "name" : "I have logged in as \"UserGroup\"",
+        "uid" : "5b2731c842378f25",
+        "parentUid" : "fe7d1215444336e91481b7a3c674ef15",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578661959876,
+          "stop" : 1578661987313,
+          "duration" : 27437
+        },
+        "flaky" : true,
+        "parameters" : [ "chrome" ]
+      } ],
+      "uid" : "fe7d1215444336e91481b7a3c674ef15"
+    }, {
+      "name" : "Step \"Fill the delivery options details\" is not defined. You can ignore this error by setting\n                                              cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "children" : [ {
+        "name" : "Fill the delivery options details",
+        "uid" : "fca08ed425915a3a",
+        "parentUid" : "f221ea4b2d10f4d9d0df15c59fa886c0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578661987316,
+          "stop" : 1578661987316,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      } ],
+      "uid" : "f221ea4b2d10f4d9d0df15c59fa886c0"
+    }, {
+      "name" : "Step \"View and Submit the Claim Summary\" is not defined. You can ignore this error by setting\n                                              cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "children" : [ {
+        "name" : "View and Submit the Claim Summary",
+        "uid" : "42e0f2bfe9fcab3f",
+        "parentUid" : "4e33bb9dbf953009bf7efe34216a4bb5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578661987316,
+          "stop" : 1578661987316,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      } ],
+      "uid" : "4e33bb9dbf953009bf7efe34216a4bb5"
+    }, {
+      "name" : "element (\"#firstName\") still not visible after 30000ms",
+      "children" : [ {
+        "name" : "Fill contact information section details for Continue Claim",
+        "uid" : "489954e0de37daeb",
+        "parentUid" : "385e776211327a18d27403d6822ad6d7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578663863710,
+          "stop" : 1578663932896,
+          "duration" : 69186
+        },
+        "flaky" : true,
+        "parameters" : [ "chrome" ]
+      } ],
+      "uid" : "385e776211327a18d27403d6822ad6d7"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

@@ -1,0 +1,7 @@
+[ {
+  "values" : [ "{\"browserName\":\"chrome\",\"chromeOptions\":{\"prefs\":{\"download.prompt_for_download\":\"false\",\"download.default_directory\":\"D:\\\\Assurant Demo\\\\chromeDownloads\",\"download.directory_upgrade\":\"true\",\"download.extensions_to_open\":\"\"}}}" ],
+  "name" : "capabilities"
+}, {
+  "values" : [ "[\"D:\\\\Assurant Demo\\\\test\\\\features\\\\continueMyClaim.feature\"]" ],
+  "name" : "spec files"
+} ]

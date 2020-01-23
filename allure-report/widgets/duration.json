@@ -1,0 +1,151 @@
+[ {
+  "uid" : "45a0ae768df24c09",
+  "name" : "View and Submit the Claim Summary for Continue Claim",
+  "time" : {
+    "start" : 1578663932906,
+    "stop" : 1578663932908,
+    "duration" : 2
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "fca08ed425915a3a",
+  "name" : "Fill the delivery options details",
+  "time" : {
+    "start" : 1578661987316,
+    "stop" : 1578661987316,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fce6d8a0a543e108",
+  "name" : "View my Claim details",
+  "time" : {
+    "start" : 1578662228260,
+    "stop" : 1578662235397,
+    "duration" : 7137
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "77a8b53d1863245a",
+  "name" : "Fill contact information section details",
+  "time" : {
+    "start" : 1578661987313,
+    "stop" : 1578661987314,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3acbe889225c5cf6",
+  "name" : "I have logged in continue claim as \"ContinueClaimUser\"",
+  "time" : {
+    "start" : 1578663811524,
+    "stop" : 1578663863709,
+    "duration" : 52185
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "18d8d1ffa6aa68d8",
+  "name" : "Fill payment info section details",
+  "time" : {
+    "start" : 1578661987316,
+    "stop" : 1578661987316,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "5b2731c842378f25",
+  "name" : "I have logged in as \"UserGroup\"",
+  "time" : {
+    "start" : 1578661959876,
+    "stop" : 1578661987313,
+    "duration" : 27437
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f2e452d6d7173e66",
+  "name" : "View my Return Instructions",
+  "time" : {
+    "start" : 1578662242769,
+    "stop" : 1578662250214,
+    "duration" : 7445
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "69bf83198a8cc4b6",
+  "name" : "I have logged in track claim as \"TrackClaimUser\"",
+  "time" : {
+    "start" : 1578662192194,
+    "stop" : 1578662228252,
+    "duration" : 36058
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "570a6bb49a3333",
+  "name" : "Fill payment info section details for Continue Claim",
+  "time" : {
+    "start" : 1578663932898,
+    "stop" : 1578663932901,
+    "duration" : 3
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6c939fccb2afe44d",
+  "name" : "View my Replacement details",
+  "time" : {
+    "start" : 1578662235404,
+    "stop" : 1578662242766,
+    "duration" : 7362
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "43d5a5bc2744ca99",
+  "name" : "Fill the delivery options details for Continue Claim",
+  "time" : {
+    "start" : 1578663932903,
+    "stop" : 1578663932904,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "489954e0de37daeb",
+  "name" : "Fill contact information section details for Continue Claim",
+  "time" : {
+    "start" : 1578663863710,
+    "stop" : 1578663932896,
+    "duration" : 69186
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "42e0f2bfe9fcab3f",
+  "name" : "View and Submit the Claim Summary",
+  "time" : {
+    "start" : 1578661987316,
+    "stop" : 1578661987316,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bbf32f48d11d973",
+  "name" : "Fill equipment claimed section details",
+  "time" : {
+    "start" : 1578661987315,
+    "stop" : 1578661987315,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]

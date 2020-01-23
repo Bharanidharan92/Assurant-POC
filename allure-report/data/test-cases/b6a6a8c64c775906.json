@@ -1,0 +1,260 @@
+{
+  "uid" : "b6a6a8c64c775906",
+  "name" : "I have logged in continue claim as \"ContinueClaimUser\"",
+  "fullName" : "Continue My File Claim Continue my claim T-Mobile.I have logged in continue claim as \"ContinueClaimUser\"",
+  "historyId" : "1b4c9212d02d113e2d431d60bcc02a4d",
+  "time" : {
+    "start" : 1578656825365,
+    "stop" : 1578656847280,
+    "duration" : 21915
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "An element could not be located on the page using the given search parameters (\"#customerIdentifier\").",
+  "statusTrace" : "Error: An element could not be located on the page using the given search parameters (\"#customerIdentifier\").\n                    at setValue(\"6105004311\") -     at D:\\Assurant Demo\\node_modules\\wdio-sync\\build\\index.js:316:3",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "An element could not be located on the page using the given search parameters (\"#customerIdentifier\").",
+    "statusTrace" : "Error: An element could not be located on the page using the given search parameters (\"#customerIdentifier\").\n                    at setValue(\"6105004311\") -     at D:\\Assurant Demo\\node_modules\\wdio-sync\\build\\index.js:316:3",
+    "steps" : [ {
+      "name" : "POST /wd/hub/session/d8c21724a36713b9309bcb87d2dd7d7b/url",
+      "time" : {
+        "start" : 1578656825371,
+        "stop" : 1578656828944,
+        "duration" : 3573
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9ea84818c2c1cd60",
+        "name" : "Request",
+        "source" : "9ea84818c2c1cd60.json",
+        "type" : "application/json",
+        "size" : 127
+      }, {
+        "uid" : "9766d4280601aa83",
+        "name" : "Response",
+        "source" : "9766d4280601aa83.json",
+        "type" : "application/json",
+        "size" : 91
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /wd/hub/session/d8c21724a36713b9309bcb87d2dd7d7b/window/current/maximize",
+      "time" : {
+        "start" : 1578656828945,
+        "stop" : 1578656830579,
+        "duration" : 1634
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d35fd27093c1697c",
+        "name" : "Response",
+        "source" : "d35fd27093c1697c.json",
+        "type" : "application/json",
+        "size" : 91
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "GET /wd/hub/session/d8c21724a36713b9309bcb87d2dd7d7b/url",
+      "time" : {
+        "start" : 1578656831265,
+        "stop" : 1578656831405,
+        "duration" : 140
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d1609ca959741862",
+        "name" : "Response",
+        "source" : "d1609ca959741862.json",
+        "type" : "application/json",
+        "size" : 155
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /wd/hub/session/d8c21724a36713b9309bcb87d2dd7d7b/element",
+      "time" : {
+        "start" : 1578656831406,
+        "stop" : 1578656836454,
+        "duration" : 5048
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f91732fcfc3c59cd",
+        "name" : "Request",
+        "source" : "f91732fcfc3c59cd.json",
+        "type" : "application/json",
+        "size" : 56
+      }, {
+        "uid" : "8b03861294c5bfff",
+        "name" : "Response",
+        "source" : "8b03861294c5bfff.json",
+        "type" : "application/json",
+        "size" : 605
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "GET /wd/hub/session/d8c21724a36713b9309bcb87d2dd7d7b/screenshot",
+      "time" : {
+        "start" : 1578656836454,
+        "stop" : 1578656847280,
+        "duration" : 10826
+      },
+      "status" : "broken",
+      "statusMessage" : "Error: An element could not be located on the page using the given search parameters (\"#customerIdentifier\").\n                    at setValue(\"6105004311\") -     at D:\\Assurant Demo\\node_modules\\wdio-sync\\build\\index.js:316:3",
+      "steps" : [ {
+        "name" : "GET /wd/hub/session/d8c21724a36713b9309bcb87d2dd7d7b/screenshot",
+        "time" : {
+          "start" : 1578656837851,
+          "stop" : 1578656847280,
+          "duration" : 9429
+        },
+        "status" : "broken",
+        "statusMessage" : "Error: An element could not be located on the page using the given search parameters (\"#customerIdentifier\").\n                    at setValue(\"6105004311\") -     at D:\\Assurant Demo\\node_modules\\wdio-sync\\build\\index.js:316:3",
+        "steps" : [ {
+          "name" : "DELETE /wd/hub/session/d8c21724a36713b9309bcb87d2dd7d7b",
+          "time" : {
+            "start" : 1578656839120,
+            "stop" : 1578656839745,
+            "duration" : 625
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "960c15f81d711c44",
+            "name" : "Response",
+            "source" : "960c15f81d711c44.json",
+            "type" : "application/json",
+            "size" : 91
+          } ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : false
+        }, {
+          "name" : "POST /wd/hub/session",
+          "time" : {
+            "start" : 1578656839746,
+            "stop" : 1578656847278,
+            "duration" : 7532
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "8e0a5396aab03859",
+            "name" : "Request",
+            "source" : "8e0a5396aab03859.json",
+            "type" : "application/json",
+            "size" : 766
+          }, {
+            "uid" : "40501a9c083217a2",
+            "name" : "Response",
+            "source" : "40501a9c083217a2.json",
+            "type" : "application/json",
+            "size" : 1133
+          } ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "attachmentsCount" : 2,
+          "shouldDisplayMessage" : false
+        } ],
+        "attachments" : [ {
+          "uid" : "fc4bc96128695950",
+          "name" : "Screenshot",
+          "source" : "fc4bc96128695950.png",
+          "type" : "image/png",
+          "size" : 640354
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 2,
+        "hasContent" : true,
+        "attachmentsCount" : 4,
+        "shouldDisplayMessage" : true
+      } ],
+      "attachments" : [ {
+        "uid" : "4f748b64f0daf316",
+        "name" : "Screenshot",
+        "source" : "4f748b64f0daf316.png",
+        "type" : "image/png",
+        "size" : 640354
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 3,
+      "hasContent" : true,
+      "attachmentsCount" : 5,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 8,
+    "hasContent" : true,
+    "attachmentsCount" : 11,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Continue My File Claim"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "story",
+    "value" : "Continue my claim T-Mobile"
+  }, {
+    "name" : "suite",
+    "value" : "Continue My File Claim Continue my claim T-Mobile"
+  }, {
+    "name" : "testClass",
+    "value" : "Continue My File Claim Continue my claim T-Mobile"
+  }, {
+    "name" : "testMethod",
+    "value" : "I have logged in continue claim as \"ContinueClaimUser\""
+  }, {
+    "name" : "package",
+    "value" : "Continue My File Claim Continue my claim T-Mobile"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b6a6a8c64c775906.json",
+  "parameterValues" : [ "chrome" ]
+}

@@ -1,0 +1,143 @@
+{
+  "uid" : "d8f75ce8ee55941a",
+  "name" : "View my Claim details",
+  "fullName" : "Track My Claim Track my claim T-Mobile.View my Claim details",
+  "historyId" : "90b504d888a274f204b3cad143482aca",
+  "time" : {
+    "start" : 1578644246993,
+    "stop" : 1578644254121,
+    "duration" : 7128
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /wd/hub/session/7a96ec025fa96cfa96e7f54bd750710e/element",
+      "time" : {
+        "start" : 1578644246995,
+        "stop" : 1578644247033,
+        "duration" : 38
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "89deaf70be641023",
+        "name" : "Request",
+        "source" : "89deaf70be641023.json",
+        "type" : "application/json",
+        "size" : 73
+      }, {
+        "uid" : "f3486313f662e003",
+        "name" : "Response",
+        "source" : "f3486313f662e003.json",
+        "type" : "application/json",
+        "size" : 137
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /wd/hub/session/7a96ec025fa96cfa96e7f54bd750710e/elements",
+      "time" : {
+        "start" : 1578644247043,
+        "stop" : 1578644247083,
+        "duration" : 40
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "da9deeb14237bd5",
+        "name" : "Request",
+        "source" : "da9deeb14237bd5.json",
+        "type" : "application/json",
+        "size" : 73
+      }, {
+        "uid" : "25c481b82622a5f7",
+        "name" : "Response",
+        "source" : "25c481b82622a5f7.json",
+        "type" : "application/json",
+        "size" : 161
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "GET /wd/hub/session/7a96ec025fa96cfa96e7f54bd750710e/element/0.21949724249966063-1/displayed",
+      "time" : {
+        "start" : 1578644247083,
+        "stop" : 1578644247114,
+        "duration" : 31
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "32f5aa9cb6b4e095",
+        "name" : "Response",
+        "source" : "32f5aa9cb6b4e095.json",
+        "type" : "application/json",
+        "size" : 91
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "hasContent" : true,
+    "attachmentsCount" : 5,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Track My Claim"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "story",
+    "value" : "Track my claim T-Mobile"
+  }, {
+    "name" : "suite",
+    "value" : "Track My Claim Track my claim T-Mobile"
+  }, {
+    "name" : "testClass",
+    "value" : "Track My Claim Track my claim T-Mobile"
+  }, {
+    "name" : "testMethod",
+    "value" : "View my Claim details"
+  }, {
+    "name" : "package",
+    "value" : "Track My Claim Track my claim T-Mobile"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d8f75ce8ee55941a.json",
+  "parameterValues" : [ "chrome" ]
+}

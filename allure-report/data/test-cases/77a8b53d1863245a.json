@@ -1,0 +1,76 @@
+{
+  "uid" : "77a8b53d1863245a",
+  "name" : "Fill contact information section details",
+  "fullName" : "File Claims File my claim T-Mobile.Fill contact information section details",
+  "historyId" : "c9c3880b060badd43b4bdb96b0e8c02d",
+  "time" : {
+    "start" : 1578661987313,
+    "stop" : 1578661987314,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "File Claims"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "story",
+    "value" : "File my claim T-Mobile"
+  }, {
+    "name" : "suite",
+    "value" : "File Claims File my claim T-Mobile"
+  }, {
+    "name" : "testClass",
+    "value" : "File Claims File my claim T-Mobile"
+  }, {
+    "name" : "testMethod",
+    "value" : "Fill contact information section details"
+  }, {
+    "name" : "package",
+    "value" : "File Claims File my claim T-Mobile"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fe3f130754163d8f",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1578659440255,
+        "stop" : 1578659440260,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "ad68fde035274490",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1578658561484,
+        "stop" : 1578658561485,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "77a8b53d1863245a.json",
+  "parameterValues" : [ "chrome" ]
+}

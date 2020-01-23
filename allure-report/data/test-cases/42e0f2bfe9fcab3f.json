@@ -1,0 +1,66 @@
+{
+  "uid" : "42e0f2bfe9fcab3f",
+  "name" : "View and Submit the Claim Summary",
+  "fullName" : "File Claims File my claim T-Mobile.View and Submit the Claim Summary",
+  "historyId" : "2ea467395e6df2f98f8d4d575c60230d",
+  "time" : {
+    "start" : 1578661987316,
+    "stop" : 1578661987316,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Step \"View and Submit the Claim Summary\" is not defined. You can ignore this error by setting\n                                              cucumberOpts.ignoreUndefinedDefinitions as true.",
+  "statusTrace" : "D:\\Assurant Demo\\test\\features\\fileMyClaim.feature:9",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "File Claims"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "story",
+    "value" : "File my claim T-Mobile"
+  }, {
+    "name" : "suite",
+    "value" : "File Claims File my claim T-Mobile"
+  }, {
+    "name" : "testClass",
+    "value" : "File Claims File my claim T-Mobile"
+  }, {
+    "name" : "testMethod",
+    "value" : "View and Submit the Claim Summary"
+  }, {
+    "name" : "package",
+    "value" : "File Claims File my claim T-Mobile"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "42e0f2bfe9fcab3f.json",
+  "parameterValues" : [ "chrome" ]
+}

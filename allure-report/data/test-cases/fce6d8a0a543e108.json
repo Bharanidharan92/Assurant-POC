@@ -1,0 +1,153 @@
+{
+  "uid" : "fce6d8a0a543e108",
+  "name" : "View my Claim details",
+  "fullName" : "Track My Claim Track my claim T-Mobile.View my Claim details",
+  "historyId" : "90b504d888a274f204b3cad143482aca",
+  "time" : {
+    "start" : 1578662228260,
+    "stop" : 1578662235397,
+    "duration" : 7137
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /wd/hub/session/13a65a5d49da78abb015bdfd898d8585/element",
+      "time" : {
+        "start" : 1578662228271,
+        "stop" : 1578662228339,
+        "duration" : 68
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5102b6b573b1e949",
+        "name" : "Request",
+        "source" : "5102b6b573b1e949.json",
+        "type" : "application/json",
+        "size" : 73
+      }, {
+        "uid" : "6dbe7c07d4992952",
+        "name" : "Response",
+        "source" : "6dbe7c07d4992952.json",
+        "type" : "application/json",
+        "size" : 137
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /wd/hub/session/13a65a5d49da78abb015bdfd898d8585/elements",
+      "time" : {
+        "start" : 1578662228340,
+        "stop" : 1578662228361,
+        "duration" : 21
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ca126a32d417e7d7",
+        "name" : "Request",
+        "source" : "ca126a32d417e7d7.json",
+        "type" : "application/json",
+        "size" : 73
+      }, {
+        "uid" : "6bd9889b98742a61",
+        "name" : "Response",
+        "source" : "6bd9889b98742a61.json",
+        "type" : "application/json",
+        "size" : 161
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "GET /wd/hub/session/13a65a5d49da78abb015bdfd898d8585/element/0.10194002053333873-1/displayed",
+      "time" : {
+        "start" : 1578662228361,
+        "stop" : 1578662228386,
+        "duration" : 25
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "29897cb7fe05665d",
+        "name" : "Response",
+        "source" : "29897cb7fe05665d.json",
+        "type" : "application/json",
+        "size" : 91
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "hasContent" : true,
+    "attachmentsCount" : 5,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Track My Claim"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "story",
+    "value" : "Track my claim T-Mobile"
+  }, {
+    "name" : "suite",
+    "value" : "Track My Claim Track my claim T-Mobile"
+  }, {
+    "name" : "testClass",
+    "value" : "Track My Claim Track my claim T-Mobile"
+  }, {
+    "name" : "testMethod",
+    "value" : "View my Claim details"
+  }, {
+    "name" : "package",
+    "value" : "Track My Claim Track my claim T-Mobile"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d8f75ce8ee55941a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578644246993,
+        "stop" : 1578644254121,
+        "duration" : 7128
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fce6d8a0a543e108.json",
+  "parameterValues" : [ "chrome" ]
+}

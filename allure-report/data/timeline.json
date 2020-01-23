@@ -1,0 +1,185 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "View and Submit the Claim Summary for Continue Claim",
+    "uid" : "45a0ae768df24c09",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1578663932906,
+      "stop" : 1578663932908,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "parameters" : [ "chrome" ]
+  }, {
+    "name" : "Fill the delivery options details",
+    "uid" : "fca08ed425915a3a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1578661987316,
+      "stop" : 1578661987316,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ "chrome" ]
+  }, {
+    "name" : "View my Claim details",
+    "uid" : "fce6d8a0a543e108",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1578662228260,
+      "stop" : 1578662235397,
+      "duration" : 7137
+    },
+    "flaky" : false,
+    "parameters" : [ "chrome" ]
+  }, {
+    "name" : "Fill contact information section details",
+    "uid" : "77a8b53d1863245a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1578661987313,
+      "stop" : 1578661987314,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "parameters" : [ "chrome" ]
+  }, {
+    "name" : "I have logged in continue claim as \"ContinueClaimUser\"",
+    "uid" : "3acbe889225c5cf6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1578663811524,
+      "stop" : 1578663863709,
+      "duration" : 52185
+    },
+    "flaky" : true,
+    "parameters" : [ "chrome" ]
+  }, {
+    "name" : "Fill payment info section details",
+    "uid" : "18d8d1ffa6aa68d8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1578661987316,
+      "stop" : 1578661987316,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ "chrome" ]
+  }, {
+    "name" : "I have logged in as \"UserGroup\"",
+    "uid" : "5b2731c842378f25",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1578661959876,
+      "stop" : 1578661987313,
+      "duration" : 27437
+    },
+    "flaky" : true,
+    "parameters" : [ "chrome" ]
+  }, {
+    "name" : "View my Return Instructions",
+    "uid" : "f2e452d6d7173e66",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1578662242769,
+      "stop" : 1578662250214,
+      "duration" : 7445
+    },
+    "flaky" : false,
+    "parameters" : [ "chrome" ]
+  }, {
+    "name" : "I have logged in track claim as \"TrackClaimUser\"",
+    "uid" : "69bf83198a8cc4b6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1578662192194,
+      "stop" : 1578662228252,
+      "duration" : 36058
+    },
+    "flaky" : false,
+    "parameters" : [ "chrome" ]
+  }, {
+    "name" : "Fill payment info section details for Continue Claim",
+    "uid" : "570a6bb49a3333",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1578663932898,
+      "stop" : 1578663932901,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "parameters" : [ "chrome" ]
+  }, {
+    "name" : "View my Replacement details",
+    "uid" : "6c939fccb2afe44d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1578662235404,
+      "stop" : 1578662242766,
+      "duration" : 7362
+    },
+    "flaky" : false,
+    "parameters" : [ "chrome" ]
+  }, {
+    "name" : "Fill the delivery options details for Continue Claim",
+    "uid" : "43d5a5bc2744ca99",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1578663932903,
+      "stop" : 1578663932904,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "parameters" : [ "chrome" ]
+  }, {
+    "name" : "Fill contact information section details for Continue Claim",
+    "uid" : "489954e0de37daeb",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1578663863710,
+      "stop" : 1578663932896,
+      "duration" : 69186
+    },
+    "flaky" : true,
+    "parameters" : [ "chrome" ]
+  }, {
+    "name" : "View and Submit the Claim Summary",
+    "uid" : "42e0f2bfe9fcab3f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1578661987316,
+      "stop" : 1578661987316,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ "chrome" ]
+  }, {
+    "name" : "Fill equipment claimed section details",
+    "uid" : "bbf32f48d11d973",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1578661987315,
+      "stop" : 1578661987315,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ "chrome" ]
+  } ]
+}

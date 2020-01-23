@@ -1,0 +1,37 @@
+{
+  "total" : 3,
+  "items" : [ {
+    "uid" : "e3a8cfecddd43cb539be9127972949d0",
+    "name" : "File Claims File my claim T-Mobile",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 3,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "391727fbfdb2b223bf29a9108168621f",
+    "name" : "Continue My File Claim Continue my claim T-Mobile",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 3,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "2b29d1698ca467692882c38bc2aa534a",
+    "name" : "Track My Claim Track my claim T-Mobile",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  } ]
+}

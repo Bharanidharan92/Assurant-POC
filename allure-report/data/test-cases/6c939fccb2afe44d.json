@@ -1,0 +1,201 @@
+{
+  "uid" : "6c939fccb2afe44d",
+  "name" : "View my Replacement details",
+  "fullName" : "Track My Claim Track my claim T-Mobile.View my Replacement details",
+  "historyId" : "901259308508d20a1de202914e1353fe",
+  "time" : {
+    "start" : 1578662235404,
+    "stop" : 1578662242766,
+    "duration" : 7362
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /wd/hub/session/13a65a5d49da78abb015bdfd898d8585/element",
+      "time" : {
+        "start" : 1578662235407,
+        "stop" : 1578662235455,
+        "duration" : 48
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d930bc059a6618e0",
+        "name" : "Request",
+        "source" : "d930bc059a6618e0.json",
+        "type" : "application/json",
+        "size" : 78
+      }, {
+        "uid" : "2d411963895923f",
+        "name" : "Response",
+        "source" : "2d411963895923f.json",
+        "type" : "application/json",
+        "size" : 137
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /wd/hub/session/13a65a5d49da78abb015bdfd898d8585/elements",
+      "time" : {
+        "start" : 1578662235464,
+        "stop" : 1578662235501,
+        "duration" : 37
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "559e2689088cdbb5",
+        "name" : "Request",
+        "source" : "559e2689088cdbb5.json",
+        "type" : "application/json",
+        "size" : 78
+      }, {
+        "uid" : "5ad8ea9fe37a9813",
+        "name" : "Response",
+        "source" : "5ad8ea9fe37a9813.json",
+        "type" : "application/json",
+        "size" : 161
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "GET /wd/hub/session/13a65a5d49da78abb015bdfd898d8585/element/0.10194002053333873-2/displayed",
+      "time" : {
+        "start" : 1578662235501,
+        "stop" : 1578662235539,
+        "duration" : 38
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e4071058c68c9358",
+        "name" : "Response",
+        "source" : "e4071058c68c9358.json",
+        "type" : "application/json",
+        "size" : 91
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /wd/hub/session/13a65a5d49da78abb015bdfd898d8585/element",
+      "time" : {
+        "start" : 1578662235540,
+        "stop" : 1578662235559,
+        "duration" : 19
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7e8430930d8def89",
+        "name" : "Request",
+        "source" : "7e8430930d8def89.json",
+        "type" : "application/json",
+        "size" : 78
+      }, {
+        "uid" : "c7a44b8e1d0e349a",
+        "name" : "Response",
+        "source" : "c7a44b8e1d0e349a.json",
+        "type" : "application/json",
+        "size" : 137
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /wd/hub/session/13a65a5d49da78abb015bdfd898d8585/element/0.10194002053333873-2/click",
+      "time" : {
+        "start" : 1578662235563,
+        "stop" : 1578662235761,
+        "duration" : 198
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d5404c7b724b822b",
+        "name" : "Response",
+        "source" : "d5404c7b724b822b.json",
+        "type" : "application/json",
+        "size" : 91
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "hasContent" : true,
+    "attachmentsCount" : 8,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Track My Claim"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "story",
+    "value" : "Track my claim T-Mobile"
+  }, {
+    "name" : "suite",
+    "value" : "Track My Claim Track my claim T-Mobile"
+  }, {
+    "name" : "testClass",
+    "value" : "Track My Claim Track my claim T-Mobile"
+  }, {
+    "name" : "testMethod",
+    "value" : "View my Replacement details"
+  }, {
+    "name" : "package",
+    "value" : "Track My Claim Track my claim T-Mobile"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "669e0f000b55e603",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578644254129,
+        "stop" : 1578644261456,
+        "duration" : 7327
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6c939fccb2afe44d.json",
+  "parameterValues" : [ "chrome" ]
+}

@@ -1,0 +1,33 @@
+{
+    "status": 0,
+    "sessionId": "d80c4e5da2c4523740b6a13410128a8e",
+    "value": {
+        "applicationCacheEnabled": false,
+        "rotatable": false,
+        "mobileEmulationEnabled": false,
+        "networkConnectionEnabled": false,
+        "chrome": {
+            "chromedriverVersion": "2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7)",
+            "userDataDir": "C:\\Users\\BMURUG~1\\AppData\\Local\\Temp\\scoped_dir6516_7981"
+        },
+        "takesHeapSnapshot": true,
+        "pageLoadStrategy": "normal",
+        "databaseEnabled": false,
+        "handlesAlerts": true,
+        "hasTouchScreen": false,
+        "version": "79.0.3945.88",
+        "platform": "Windows NT",
+        "browserConnectionEnabled": false,
+        "nativeEvents": true,
+        "acceptSslCerts": false,
+        "acceptInsecureCerts": false,
+        "locationContextEnabled": true,
+        "webStorageEnabled": true,
+        "browserName": "chrome",
+        "takesScreenshot": true,
+        "javascriptEnabled": true,
+        "cssSelectorsEnabled": true,
+        "setWindowRect": true,
+        "unexpectedAlertBehaviour": ""
+    }
+}
